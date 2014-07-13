@@ -1,0 +1,1 @@
+DynoApp::Application.config.secret_key_base = 'bef2be990adf4eb7fb3cdcbdb1f0079af06313ee7925c080ee88dc1f5c7a51bb6a360d07e25dd04fd583126e999c180726bac0a10340a03371663e10e428ea86'
